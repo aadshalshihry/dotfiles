@@ -9,7 +9,33 @@ set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline.otf:h20
 " Relative Line Numbers
 " set rnu
 
-set relativenumber
+set guioptions-=T " remove the top toolbar
+set guioptions-=r " remove the right toolbar
+
+set linespace=15 " make the line space between line 5
+set number " show number inorder
+" set relativenumber " make the current line I'm in 0 to use G for movement
+
+set nowrap " wrap line
+set smarttab 
+
+set tags=tags
+
+set expandtab " overloadable per file later
+set shiftwidth=4 " number of space using for autoindenting
+set shiftround " using it with < , > 
+
+set autoindent " Automatically indent
+set copyindent " copy the previuse indents
+set backspace=indent,eol,start " allowed them in insert mode
+
+set ignorecase " ignore case for searching
+set smartcase " ignore case if the search word is lowercase
+
+set autowrite " save on buffer switch
+set mouse=a " using mouse inside vim
+
+
 
 " using if with crtl-p to gave you a list of word that I can chose form.
 set complete
@@ -19,14 +45,6 @@ set spell
 
 " clipborad for yank stuff and use it out side of vim.
 set clipboard=unnamed
-
-" line Numbers
-set rnu
-
-
-
-" Automatically indent
-set autoindent
 
 " Disable bells 
 set noerrorbells
@@ -40,7 +58,7 @@ set showmode
 " syntax on
 syntax enable
 set background=dark
-colorscheme solarized
+ colorscheme solarized
 
 " if I want the backgrand to be more dark uncomment the below line
 " let g:solarized_termcolors=256
@@ -154,6 +172,8 @@ Plugin 'scrooloose/syntastic'
 "ctrlP
 Plugin 'kien/ctrlp.vim'
 
+" Laravel extention
+" Plugin 'm2mdas/phpcomplete-extended-laravel'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
