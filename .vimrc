@@ -123,6 +123,35 @@ let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 
 
+" This is for emmet 
+let g:user_emmet_mode='n'    "only enable normal mode functions.
+let g:user_emmet_mode='inv'  "enable all functions, which is equal to
+let g:user_emmet_mode='a'    "enable all function in all mode.
+
+let g:user_emmet_install_global = 0
+autocmd FileType html,css EmmetInstall
+
+" To remap the default <C-Y> leader:
+
+let g:user_emmet_leader_key='<C-E>'
+
+" javascript serup
+
+" set regexpengine=1
+syntax enable
+
+let g:javascript_conceal_function   = "ƒ"
+let g:javascript_conceal_null       = "ø"
+let g:javascript_conceal_this       = "@"
+let g:javascript_conceal_return     = "⇚"
+let g:javascript_conceal_undefined  = "¿"
+let g:javascript_conceal_NaN        = "ℕ"
+let g:javascript_conceal_prototype  = "¶"
+let g:javascript_conceal_static     = "•"
+let g:javascript_conceal_super      = "Ω"
+
+
+
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
@@ -174,6 +203,20 @@ Plugin 'kien/ctrlp.vim'
 
 " Laravel extention
 " Plugin 'm2mdas/phpcomplete-extended-laravel'
+
+" This is for emmet 
+Plugin 'mattn/emmet-vim'
+
+" javascript
+Plugin 'pangloss/vim-javascript'
+
+" beauty for javascript
+Plugin 'maksimr/vim-jsbeautify'
+
+" javascript hint
+Plugin 'walm/jshint.vim'
+
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required

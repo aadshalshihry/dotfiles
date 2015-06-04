@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/Roman/oh-my-zsh/fonts/AnonymousPro'
+let g:netrw_dirhist_2='/Users/Roman/Dropbox/programming/sandbox/phpFrameWork/blog2'
+let g:netrw_dirhist_3='/Users/Roman/.git'
