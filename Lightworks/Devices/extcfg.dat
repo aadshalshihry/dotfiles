@@ -1,0 +1,26 @@
+{ external_device_config
+device0.AudioType IOCT_AES_EBU
+device0.audioInputName 
+device0.audio_equiv_speed Video
+device0.audio_input A1,A2,A3,A4,X,X,X,X,X,X,X,X,X,X,X,X
+device0.audio_sync [2] (Video)
+device0.device_Template Custom
+device0.device_id 0000054625AB847F28
+device0.device_type Source/Record
+device0.extra_details a0220014
+device0.label_mapping 
+device0.last_reel 
+device0.ltc_input None
+device0.name audio
+device0.num_audio_inputs 16
+device0.num_video_chans 0
+device0.port /dev/cu.Bluetooth-Incoming-Port
+device0.port_type Com Port
+device0.tape_list 
+device0.videoInputName Desktop
+device0.video_input System
+device0.video_monitor None
+device0.video_output None
+last_config 0
+extcfg_version 1.2
+} external_device_config

@@ -1,0 +1,31 @@
+{
+  VERSION:int 1
+  Stereo.VideoExport LeftEye
+  Stereo.UIImageSmall LeftEye
+  Stereo.UIImageLarge LeftEye
+  Stereo.OutputMonitor LeftEye
+  NAME Room #2
+  LASTOCCUPANT AbdulrahmansMBP
+  DECOR
+}
+toolbox
+{
+  TRASHABILITY:int 0
+  SCRPOS (0,184)
+  RESIZEABLE:int 0
+  PINNED:int 1
+  MOVEABLE:int 0
+  ID 0000054625AB72EA0
+  DIMENSIONS (68,382)
+}
+trash
+{
+  TRASH_SPEED:double 2.00000000
+  SIZE:int 1
+  SEEKING:int 1
+  SCRPOS (20,20)
+  HOME_Y:double 20.00000000
+  HOME_X:double 20.00000000
+  DWELL_DEFAULT:int 10
+  DIMENSIONS (89,52)
+}

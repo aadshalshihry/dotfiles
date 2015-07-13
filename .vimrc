@@ -2,6 +2,9 @@
 
 :nnoremap <leader>sv :source $MYVIMRC<cr>
 
+" auto save .vimrc :w
+autocmd! bufwritepost .vimrc source %
+
 set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline.otf:h20
 
 " set number in the left bar where the current line I'm in is zero.
@@ -215,6 +218,12 @@ Plugin 'maksimr/vim-jsbeautify'
 
 " javascript hint
 Plugin 'walm/jshint.vim'
+
+" Python mode
+" Plugin 'klen/python-mode'
+
+" Python syntax
+Plugin 'hdima/python-syntax'
 
 
 

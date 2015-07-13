@@ -1,0 +1,22 @@
+
+----------------------------------------------------------- Wed Jul  1 00:48:39 2015
+
+N4LwDC23ParameterizedCommandRepIN15LwCmdProcessors18CommandContextPairINS_3CmdINS_5NoCtxENS_18ThreadSafetyTraits10ThreadSafeEEES4_EENS_5NoTagES4_RS8_S6_EE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC22StaticMemberCommandRepI19LabelMgrCppCommandsN9Interrupt7ContextE19InterruptHandlerTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC22StaticMemberCommandRepI18VidplayCppCommandsN9Interrupt7ContextE29VHeadDisplayTaskIntHandlerTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepINS_5NoCtxEN3Aud3Cmd33Manager_ProcessPlaybackStreamsTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextEN3Aud3Cmd28Manager_VideoInterruptEndTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextEN3Aud3Cmd30Manager_VideoInterruptStartTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextE30LwAudioMixer_VideoInterruptTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextE31ScreenCapture_VideoInterruptTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+
+----------------------------------------------------------- Wed Jul  1 00:56:12 2015
+
+N4LwDC23ParameterizedCommandRepIN15LwCmdProcessors18CommandContextPairINS_3CmdINS_5NoCtxENS_18ThreadSafetyTraits10ThreadSafeEEES4_EENS_5NoTagES4_RS8_S6_EE: maxInUse 1 Peak Demand 52.17 allocs/sec @ 28619132.00 Wed Jul  1 00:51:57 2015
+N4LwDC22StaticMemberCommandRepI19LabelMgrCppCommandsN9Interrupt7ContextE19InterruptHandlerTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC22StaticMemberCommandRepI18VidplayCppCommandsN9Interrupt7ContextE29VHeadDisplayTaskIntHandlerTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepINS_5NoCtxEN3Aud3Cmd33Manager_ProcessPlaybackStreamsTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextEN3Aud3Cmd28Manager_VideoInterruptEndTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextEN3Aud3Cmd30Manager_VideoInterruptStartTagENS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextE30LwAudioMixer_VideoInterruptTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969
+N4LwDC16SimpleCommandRepIN9Interrupt7ContextE31ScreenCapture_VideoInterruptTagNS_18ThreadSafetyTraits10ThreadSafeEEE: maxInUse 1 Peak Demand 0.00 allocs/sec @ 0.00 Wed Dec 31 19:00:00 1969

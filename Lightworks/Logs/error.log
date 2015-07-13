@@ -1,0 +1,102 @@
+Lightworks 12.5.E 64-bit (Beta release, build 76638 dated Jun 12 2015)
+Starting at Wed Jul  1 17:48:14 2015
+
+OS Version            :  (Version 10.10.3 (Build 14D136))
+Machine number        : 1350
+Available memory      : 2.7 Gb
+Total memory          : 6.8 Gb
+Virtual Address Range : 2.0 Tb
+Number of CPUs        : 4
+User has admin rights : No
+Graphics driver       : Intel Inc.
+
+57545.619: Setting project base directory /Users/Roman/Lightworks/Projects/
+57545.627: Starting window manager
+QtImage::QtImage( /Applications/Lightworks.app/Contents/MacOS/../Resources/Images/bg_1_1280x800.jpg ) failed
+57545.756: Checking library versions..
+57545.762: Loading plugin modules..
+57545.762: ------ Loading plugin : aaf.lwd ------
+57545.905: Success
+57545.905: ------ Loading plugin : AJA.lwd ------
+57545.932: Success
+57545.932: ------ Loading plugin : Avi.lwd ------
+57545.964: Success
+57545.964: ------ Loading plugin : Cineform.lwd ------
+57546.033: Success
+57546.033: ------ Loading plugin : codecs.lwd ------
+57547.107: Plugins loaded: 21 (full: 20, demo: 0, free: 1)
+57547.136: Success
+57547.136: ------ Loading plugin : CoreAudio.lwd ------
+57547.201: channels: 2, samplerate 48000.000000
+57547.201: Buffer size is 4096 bytes
+57547.201: Success
+57547.201: ------ Loading plugin : DeckLink_drv.lwd ------
+57547.245: Success
+57547.245: ------ Loading plugin : dng.lwd ------
+57547.296: Success
+57547.296: ------ Loading plugin : DNxHD.lwd ------
+57547.335: Success
+57547.335: ------ Loading plugin : export.lwd ------
+57547.365: Success
+57547.365: ------ Loading plugin : ffmpeg.lwd ------
+57547.487: Success
+57547.487: ------ Loading plugin : fxdrv.lwd ------
+57547.538: Success
+57547.538: ------ Loading plugin : LwConsole.lwd ------
+57547.565: Success
+57547.565: ------ Loading plugin : mxf.lwd ------
+57547.598: Success
+57547.598: ------ Loading plugin : omf.lwd ------
+57547.642: Success
+57547.642: ------ Loading plugin : plugplug.lwd ------
+57547.686: Skipped
+57547.686: ------ Loading plugin : Qt.lwd ------
+57547.718: Success
+57547.718: ------ Loading plugin : r3d.lwd ------
+57547.764: R3D SDK library version = 5.3
+57547.764: R3D SDK header version  = 5.3
+57547.764: Library & header versions match
+57547.765: R3D SDK license #R390, licensed to 'EditShare'
+57547.765: Success
+57547.765: ------ Loading plugin : SharedSoftDrv.lwd ------
+57547.800: Success
+57547.800: ------ Loading plugin : uiopt.lwd ------
+57547.855: Success
+57547.855: ------ Loading plugin : xml.lwd ------
+57547.884: Success
+57547.884: ------ Loading plugin : YouTube.lwd ------
+57547.911: Success
+57547.921: Loaded device System Sound
+57547.924: Found capture source ScreenCapture
+57547.931: Initialising comms subsystem..
+57547.933: Checking dongles..
+57547.933: Initialising disk subsystem..
+57547.939: Initialising video..
+57547.939: Reading editor preferences..
+57547.939: Initialising console..
+57547.939: Initialising external audio subsystem..
+57547.939: Initialising play engine..
+57548.007: Setting up edit manager..
+57548.014: previous run exited incorrectly
+57548.031: Using LwOverlayResource [Lw Overlay Resource]
+57548.043: Building effects catalogue..
+57548.053: Warning: Not all object data was read while unpacking object Taggable.FXGraphNodeBase.EffectInstance.EffectInstanceEx.LUT3DEffect, layer EffectInstanceEx v1.1, 4/109 bytes unread.
+57548.059: Initialising user interface..
+57548.102: Reading projects..
+57548.104: Initialising media folders..
+57548.104: Added media location : /Users/Roman/Lightworks/Media/
+57548.248: Setting up audio mixer..
+57548.254: Complete
+57548.258: Activating DefaultVideo Software Interrupt interrupt
+57569.052: 
+>>>> Entered project 'try' (5 logs, Rate : 30 fps, Output : 1080p (sf)).
+
+57569.342: Open /Users/Roman/Desktop/ALL THIS AND RABBIT STEW.mp4 with MainConcept FileReader for eVideoEssence
+57574.661: Open /Users/Roman/Desktop/ALL THIS AND RABBIT STEW.mp4 with MainConcept FileReader for eAudioEssence
+57581.828: 1. ---------- Import Log ----------
+57581.828: 1.   /Users/Roman/Desktop/ALL THIS AND RABBIT STEW.mp4
+57581.829: 1.
+57581.829: 1.   ALL THIS AND RABBIT STEW.mp4
+57581.829: 1.      ALL THIS AND RABBIT STEW.mp4
+57581.829: 1.   Finished
+57581.829: 1. ---------------
