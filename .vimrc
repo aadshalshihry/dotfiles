@@ -1,4 +1,7 @@
+" The orginal file is in ~/myProject/git/dotfiles/
+
 " source ~/.vim/plugins.vim
+
 
 :nnoremap <leader>sv :source $MYVIMRC<cr>
 
