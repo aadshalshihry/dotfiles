@@ -10,14 +10,15 @@ set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline.otf:h20
 " set number in the left bar where the current line I'm in is zero.
 " OR 
 " Relative Line Numbers
-" set rnu
+set rnu
+
+set number " show number inorder
+" set relativenumber " make the current line I'm in 0 to use G for movement
 
 set guioptions-=T " remove the top toolbar
 set guioptions-=r " remove the right toolbar
 
 set linespace=15 " make the line space between line 5
-set number " show number inorder
-" set relativenumber " make the current line I'm in 0 to use G for movement
 
 set nowrap " wrap line
 set smarttab 
@@ -44,7 +45,7 @@ set mouse=a " using mouse inside vim
 set complete
 
 " spelling checker.
-set spell
+" set spell
 
 " clipborad for yank stuff and use it out side of vim.
 set clipboard=unnamed
@@ -61,10 +62,11 @@ set showmode
 " syntax on
 syntax enable
 set background=dark
- colorscheme solarized
+"colorscheme solarized
+colorscheme elflord
 
 " if I want the backgrand to be more dark uncomment the below line
-" let g:solarized_termcolors=256
+"let g:solarized_termcolors=256
 
 " Disable search HL
 set nohlsearch
@@ -241,3 +243,4 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
+
